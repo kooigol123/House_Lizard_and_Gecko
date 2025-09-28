@@ -1,1 +1,1 @@
-# House-Lizard-Gecko-Program-Singly-and-Double-circular-queue-Program-
+House Lizard & Gecko (Singly and Double circular queue)
